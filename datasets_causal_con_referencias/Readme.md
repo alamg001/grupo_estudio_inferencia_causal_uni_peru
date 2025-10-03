@@ -13,7 +13,7 @@ Este dataset contiene [Datos sobre una droga determinada].
  
 
 ## Descripción del dataset 'lalonde'
-Este es un dfata set.....
+Este es un dfata set.....xxxxxx
 
 
 ## Referencias (norma APA)
